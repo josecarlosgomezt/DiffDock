@@ -1,0 +1,10 @@
+name: torchmd-net
+channels:
+  - raimis
+  - mmh
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.10=h85951f9_2_cpython
+
+prefix: /home/jgomezta/anaconda3/envs/diffdock
