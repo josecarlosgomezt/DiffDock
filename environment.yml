@@ -1,4 +1,4 @@
-name: torchmd-net
+name: diffdock
 channels:
   - raimis
   - mmh
